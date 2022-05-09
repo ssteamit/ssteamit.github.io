@@ -98,7 +98,7 @@ section{
 body{
     width: 100%;
     min-height: 100vh;
-    background: url(images/bcg3\ \(2\).jpg) no-repeat center center / cover;
+    background: url(bcg3\ \(2\).jpg) no-repeat center center / cover;
     background-attachment: fixed;
 }
 
