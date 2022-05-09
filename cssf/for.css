@@ -1,0 +1,14 @@
+body{
+    border: solid;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+}
+.hed{
+    text-align: end; 
+}
+.for1{
+    text-align: end;
+}

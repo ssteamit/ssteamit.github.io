@@ -1,0 +1,128 @@
+html {
+    background-image: url("https://www.magltk.com/wp-content/uploads/2018/07/%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%A2%D8%AB%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1.jpg");
+}
+
+body {
+    border-radius: 13px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1006px;
+    font-family: 'Tajawal', sans-serif;
+    background-color: white;
+}
+
+
+
+
+.goveng {
+
+    font-size: 50px;
+    text-align: left;
+    color: royalblue;
+
+    position: relative;
+    right: 11px;
+    top: 70px;
+}
+
+
+.govarp {
+    font-size: 50px;
+    text-align: right;
+    color: royalblue;
+    position: relative;
+    right: 11px;
+}
+
+
+.img2 {
+    height: 287px;
+    width: 419px;
+    position: relative;
+    float: inherit;
+    left: 267px;
+}
+
+.infor {
+    width: 900;
+    display: inline-block;
+    position: relative;
+    font-size: 30px;
+    width: 902px;
+    display: inline-block;
+    position: relative;
+    font-size: 30px;
+    text-align: right;
+}
+
+.sec {
+    overflow: hidden;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+}
+
+.asar {
+    padding: 41px;
+    height: 417px;
+    margin: -24px -1px 59px;
+
+    text-align-last: center;
+
+}
+
+
+.per1 {
+    background-color: #273cfd;
+    color: black;
+    border-radius: 5px;
+    font-size: 22px;
+    text-decoration: none;
+    left: -11px;
+    margin: 30px;
+    top: 14px;
+    width: 302px;
+    height: 101px;
+
+    padding: 7px 51px;
+}
+
+.asar p {
+    font-size: 50px;
+    text-align: center;
+    color: #1b8ddf;
+    background-color: #eee;
+    width: 1036px;
+    position: relative;
+    right: 55px;
+}
+
+.gov {
+    background-color: aliceblue;
+    box-shadow: 0 0 10px #ddd;
+}
+
+
+.ad {
+    position: relative;
+    top: -90px;
+    left: 1300px;
+    font-size: 41px;
+    margin: -29px;
+    color: white;
+}
+
+.inf {
+    position: relative;
+    right: -27px;
+}
+
+.per1:hover {
+    color: white;
+    background-color: black;
+
+}

@@ -1,0 +1,183 @@
+html {
+    background-image: url("https://www.magltk.com/wp-content/uploads/2018/07/%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%A2%D8%AB%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1.jpg");
+}
+
+body {
+
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    font-family: 'Tajawal', sans-serif;
+    background-color: white;
+}
+
+
+
+.goveng {
+
+    font-size: 50px;
+    text-align: left;
+    color: royalblue;
+    box-shadow: 0 0 0px #ddd;
+    position: relative;
+    top: 13px;
+    right: 16px;
+}
+
+
+.govarp {
+    font-size: 50px;
+    text-align: right;
+    color: royalblue;
+    box-shadow: -1 0 10px #ddd;
+    position: relative;
+    right: 8px;
+    top: -59px;
+}
+
+
+
+.img2 {
+    height: 287px;
+    width: 419px;
+    position: relative;
+    float: inherit;
+    left: 252px;
+}
+
+.infor {
+    width: 900;
+    display: inline-block;
+    position: relative;
+    font-size: 30px;
+    width: 902px;
+    display: inline-block;
+    position: relative;
+    font-size: 30px;
+    text-align: right;
+    right: 26px;
+}
+
+
+.sec {
+    overflow: hidden;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+}
+
+.asar {
+    padding: 41px;
+    height: 270px;
+    margin: -24px -1px 59px;
+
+    text-align-last: center;
+
+}
+
+.per1 {
+    background-color: #273cfd;
+    color: black;
+    border-radius: 5px;
+    font-size: 22px;
+    text-decoration: none;
+    left: -11px;
+    margin: 30px;
+    top: 14px;
+    width: 302px;
+    height: 101px;
+    position: relative;
+    left: 24px;
+
+    padding: 7px 51px;
+}
+
+.asar p {
+    font-size: 50px;
+    text-align: center;
+}
+
+.gov {
+    background-color: aliceblue;
+    box-shadow: 0 0 10px #ddd;
+}
+
+.img1 {
+    width: 192%;
+    position: relative;
+    right: 426px;
+    top: -20;
+    position: relative;
+
+
+}
+
+.ad {
+    position: relative;
+    top: -90px;
+    left: 1300px;
+    font-size: 41px;
+    margin: -29px;
+    color: white;
+}
+
+.per1:hover {
+    color: white;
+    background-color: black;
+
+}
+
+.per2 {
+    background-color: #273cfd;
+    color: black;
+    border-radius: 5px;
+    font-size: 22px;
+    text-decoration: none;
+    left: -11px;
+    margin: 30px;
+    top: 14px;
+    width: 302px;
+    height: 101px;
+    padding: 7px 51px;
+    position: relative;
+    top: 49px;
+    left: 3px;
+}
+
+.per2:hover{
+    color: white;
+    background-color: black;
+}
+
+.hr1{
+    position: relative;
+    top: -63px;
+    right: 9px;
+}
+.but{
+    width: 200;
+    padding: 10px;
+    font-size: 19px;
+    font-family: 'Tajawal';
+    background-color:  #392bff;
+    border-radius: 17;
+    align-items: center;
+    display: inline-block;
+    position: relative;
+    left: 348px;
+    top: -43px;
+    cursor: pointer;
+}
+.a{
+    text-align: center;
+    background-color: #eee;
+    color: rgb(27, 141, 223);
+    width: 926px;
+    position: relative;
+    right: 12px;
+}

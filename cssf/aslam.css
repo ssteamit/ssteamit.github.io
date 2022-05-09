@@ -1,0 +1,54 @@
+
+body{
+    border: solid;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+}
+.hed{
+    text-align: end;
+}
+.img1
+{
+    float: left;
+    width: 362px;
+    position: relative;
+    right: 10px;
+}
+.img2{
+    float: left;
+    width: 394px;
+    height: 228px;
+    position: relative;
+    top: -57px;
+    right: 6px;
+}
+.img3{
+    float: left;
+    width: 300;
+    position: relative;
+    top: -67px;
+
+}
+.img4{
+    float: left;
+    position: relative;
+    width: 319px;
+    right: 8px;
+}
+.img5{
+    float: left;
+    width: 298px;
+    position: relative;
+    top: -8px;
+    left: -9px;
+}
+.img6{
+    float: left;
+    width: 213px;
+    position: relative;
+    height: 108px;
+    top: -75px;
+}
