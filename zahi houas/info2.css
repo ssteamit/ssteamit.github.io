@@ -1,0 +1,130 @@
+*{
+  font-family:courier;
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  scroll-behavior: smooth;
+}
+.container_box{
+display:grid;
+background: linear-gradient(to bottom, #F2A950 0%, #D9A171 100%);
+grid-template-columns:100px 100px 300px;
+grid-template-rows:120px 1200px 100px ;
+border:2px;
+grid-template-areas:
+"hd hd hd hd hd hd hd hd"
+"fa fa ft ft ft ft ft fp"
+"aa aa aa aa aa aa aa aa";
+text-align:center;
+grid-gap:5px;
+font-family:courier;
+font-style:bold;
+}
+h2{
+  align: center;
+  text-shadow: 2px 2px black;
+  font-size: 30px;
+
+}
+.b_box{
+grid-area:hd;
+}
+.d_box{
+grid-area:fa;
+}
+.e_box{
+grid-area:ft;
+color:  #b300b3
+;
+}
+.m_box{
+border-radius: 25px 25px;
+grid-area:fp;
+box-shadow: 5px 5px 5px 10px;
+color: black;
+}
+.l_box{
+grid-area:aa;
+text-align: center;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 30px;
+
+}
+div.gallery {
+margin: 5px;
+width: 180px;
+}
+.gallery{
+  justify-content: space-between;
+  padding: 10px;
+
+}
+
+div.gallery:hover {
+border: 1px solid #777;
+}
+
+div.gallery img {
+width: 100%;
+height: auto;
+}
+
+div.desc {
+padding: 15px;
+text-align: center;
+}
+/* .body{
+background-color: red;
+} */
+#cars {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: black;
+  text-shadow: 2px 2px black ;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  margin: 4px 2px;
+  color:white;
+  border-radius: 25px 25px;
+  cursor: pointer;
+}
+#cars:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.text1
+{
+  border: 1px solid #b30047 ;
+  box-shadow: 5px 5px black;
+  color:#b30047;
+  border-radius: 25px 25px;
+
+}
+.text2
+{
+  border: 1px solid #0066ff;
+  color: #0066ff;
+  box-shadow: 5px 5px black;
+  border-radius: 25px 25px;
+
+}
+p
+{
+  text-align-last: center;
+  letter-spacing: 1,5px;
+  text-shadow: 1px 1px;
+  line-height: 20px;
+
+}
+.add{
+  margin:  ;
+  display: flex;
+    text-shadow: 2px 2px white;
+  padding-left:550px;
+}
